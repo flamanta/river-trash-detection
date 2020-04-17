@@ -1,6 +1,8 @@
-# River Trash Detection <!-- omit in toc -->
+# River Trash Detection v1<!-- omit in toc -->
 
 Trash detection and navigation done using NVIDIA Jetson Nano.
+
+Basic image classification using TensorFlow v2. 
 
 - [Setting up Jetson Nano](#setting-up-jetson-nano)
   - [JupyterLab](#jupyterlab)
